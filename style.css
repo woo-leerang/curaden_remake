@@ -657,6 +657,7 @@ footer .wrap .footer_left {
 
 footer .wrap .footer_right {
     margin: 0;
+    padding: 0 15px;
 }
 
 /* @media(max-width:1580px){
@@ -1463,6 +1464,7 @@ footer .wrap .footer_right {
         font-size: 50px;
         text-align: center;
         margin-top: 15px;
+        text-align: left;
     }
     
 
